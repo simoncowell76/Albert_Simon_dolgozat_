@@ -1,6 +1,65 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
-header{}
-nav{}
-aside{}
+body{
+  background-color: antiquewhite;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
+  color: brown;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+}
+img{
+  width: 100%;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+
+}
+nav li{
+  list-style: none;
+}
+section{
+  display: grid;
+  gap: 10px;
+}
+h2{
+  border-bottom: 3px grey;
+  padding-top: 20px;
+}
+h3{
+  font-style: italic;
+}
+header {
+  grid-area: h;
+}
+nav {
+  grid-area: n;
+  background-color: brown;
+}
+aside {
+  text-align: left;
+  padding: 5px;
+  grid-area: as;
+}
+article {
+  padding: 5px;
+  grid-area: ar;
+}
+footer {
+  grid-area: f;
+}
+main {
+  width: 80%;
+  margin: 0 auto;
+  background-color: lightsalmon;
+  gap:10px;
+  display: grid;
+  grid-template-columns:2,3fr, 1fr;
+  grid-template-areas:
+  "h h"
+  "n n"
+  "ar as"
+  "f f";
+}
