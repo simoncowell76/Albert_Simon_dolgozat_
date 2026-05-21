@@ -1,0 +1,104 @@
+1. feladat
+
+Űrkutatás
+
+ 
+Az űrkutatásról 
+Az űrkutatás az emberiség egyik legizgalmasabb tudományos területe, amely az űr megismerésével foglalkozik. 
+Segítségével jobban megérthetjük a Föld helyét a Világegyetemben, valamint az égitestek működését. 
+Az űrkutatás nemcsak tudományos, hanem technológiai fejlődést is hoz, hiszen számos hétköznapi eszköz alapja űrkutatási fejlesztés 
+Az űrkutatás fő területei a következők: 
+•	A műholdak segítségével megfigyeljük a Föld időjárását, felszínét és a klímaváltozást. 
+•	Az űrszondák távoli bolygókat és holdakat vizsgálnak, például a Marsot. 
+•	Az emberes űrrepülések célja az ember hosszú távú űrbeli életének kutatása. 
+Magyar űrhajósok (h2) 
+
+Farkas Bertalan (h3) 
+Farkas Bertalan volt az első magyar űrhajós, aki 1980-ban járt a világűrben. 
+Legyen egy link a bekezdés alatt: https://hu.wikipedia.org/wiki/Farkas_Bertalan_(%C5%B1rhaj%C3%B3s)  
+ 
+Kapu Tibor (h3) 
+Kapu Tibor magyar űrkutató mérnök, aki a HUNOR Magyar Űrhajós Program keretében vált ismertté, és részt vesz Magyarország jövőbeli űrmisszióinak előkészítésében. 
+Legyen egy link a bekezdés alatt: https://hu.wikipedia.org/wiki/Kapu_Tibor  
+
+
+2. feladat
+
+Űrkutatás
+
+Az űrkutatás mérföldkövei
+1957 – Az első műhold
+A Szovjetunió fellőtte a Szputnyik–1 műholdat, amely az első ember alkotta eszköz volt a világűrben. Ez indította el az űrversenyt.
+1961 – Az első ember az űrben
+Jurij Gagarin volt az első ember, aki megkerülte a Földet egy űrhajóval. Repülése bebizonyította, hogy az ember képes túlélni az űrutazást.
+1969 – Holdra szállás
+Az Apollo–11 küldetés során Neil Armstrong és Buzz Aldrin a Hold felszínére lépett. Ez az emberes űrkutatás egyik legnagyobb sikere.
+1980 – Első magyar űrhajós
+Farkas Bertalan magyar űrhajós a Szaljut–6 űrállomáson járt. Magyarország ezzel bekapcsolódott az űrkutatás történetébe.
+Napjaink – Mars-kutatás
+Modern űrszondák és marsjárók vizsgálják a Mars felszínét, az élet nyomait és a bolygó múltját. Az emberes Mars-utazás előkészítése is folyamatban van.
+
+Magyar űrhajósok (h2) 
+A szöveg alatt legyen egy section és a sectionben legyen két div. A div-ekben legyen 1-1 kép a felette h3-as címsorral az űrhajósok neve. 
+
+Farkas Bertalan (h3) 
+Farkas Bertalan volt az első magyar űrhajós, aki 1980-ban járt a világűrben. 
+Legyen egy link a bekezdés alatt: https://hu.wikipedia.org/wiki/Farkas_Bertalan_(%C5%B1rhaj%C3%B3s)  
+ 
+Kapu Tibor (h3) 
+Kapu Tibor magyar űrkutató mérnök, aki a HUNOR Magyar Űrhajós Program keretében vált ismertté, és részt vesz Magyarország jövőbeli űrmisszióinak előkészítésében. 
+Legyen egy link a bekezdés alatt: https://hu.wikipedia.org/wiki/Kapu_Tibor  
+
+3. feladat
+Űrkutatás
+
+Az űrkutatás mérföldkövei
+1957 – Az első műhold
+A Szovjetunió fellőtte a Szputnyik–1 műholdat, amely az első ember alkotta eszköz volt a világűrben. Ez indította el az űrversenyt.
+1961 – Az első ember az űrben
+Jurij Gagarin volt az első ember, aki megkerülte a Földet egy űrhajóval. Repülése bebizonyította, hogy az ember képes túlélni az űrutazást.
+1969 – Holdra szállás
+Az Apollo–11 küldetés során Neil Armstrong és Buzz Aldrin a Hold felszínére lépett. Ez az emberes űrkutatás egyik legnagyobb sikere.
+1980 – Első magyar űrhajós
+Farkas Bertalan magyar űrhajós a Szaljut–6 űrállomáson járt. Magyarország ezzel bekapcsolódott az űrkutatás történetébe.
+Napjaink – Mars-kutatás
+Modern űrszondák és marsjárók vizsgálják a Mars felszínét, az élet nyomait és a bolygó múltját. Az emberes Mars-utazás előkészítése is folyamatban van.
+
+Magyar űrhajósok (h2)
+
+
+4. feladat
+ Űrkutatás  
+ 
+Érdekességek a műholdakról
+•	Az első mesterséges műhold a Szputnyik–1 volt, amelyet 1957-ben bocsátottak fel.
+•	A műholdak nem „leesnek” a Földre, hanem folyamatosan szabadesésben keringenek körülötte.
+•	Az időjárás-előrejelzések nagy része meteorológiai műholdak adatai alapján készül.
+•	A GPS működéséhez egyszerre legalább 4 műhold jelére van szükség.
+•	Vannak olyan műholdak, amelyek mindig ugyanazon a ponton látszanak a Földről – ezeket geostacionárius műholdaknak nevezzük.
+•	A modern műholdak között sok az úgynevezett mikroműhold, amelyek akár egy cipősdoboz méretűek is lehetnek.
+•	A műholdak napelemekkel termelnek energiát, mert a világűrben nem használhatók hagyományos energiaforrások.
+Magyar űrhajósok (h2) 
+  
+Az első magyar műhold
+2012-ben bocsátották fel a MASAT–1 műholdat, amely az első magyar fejlesztésű műhold volt. A műholdat a Budapesti Műszaki és Gazdaságtudományi Egyetem hallgatói és oktatói készítették.
+Magyar műszerek az űrben
+Több nemzetközi műholdon is találhatók magyar fejlesztésű mérőeszközök, amelyek például a sugárzást és a Föld környezetét vizsgálják.
+ 
+ 
+5. feladat
+Űrkutatás 
+
+
+Érdekességek a műholdakról
+•	Az első mesterséges műhold a Szputnyik–1 volt, amelyet 1957-ben bocsátottak fel.
+•	A műholdak nem „leesnek” a Földre, hanem folyamatosan szabadesésben keringenek körülötte.
+•	Az időjárás-előrejelzések nagy része meteorológiai műholdak adatai alapján készül.
+•	A GPS működéséhez egyszerre legalább 4 műhold jelére van szükség.
+•	Vannak olyan műholdak, amelyek mindig ugyanazon a ponton látszanak a Földről – ezeket geostacionárius műholdaknak nevezzük.
+•	A modern műholdak között sok az úgynevezett mikroműhold, amelyek akár egy cipősdoboz méretűek is lehetnek.
+•	A műholdak napelemekkel termelnek energiát, mert a világűrben nem használhatók hagyományos energiaforrások.
+
+Magyar űrhajósok (h2) 
+ 
+ 
