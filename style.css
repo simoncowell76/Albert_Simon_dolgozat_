@@ -47,7 +47,7 @@ nav li:hover{
 }
 section{
   display: grid;
-  grid-template-columns: repeat(auto-fit, 1fr 1fr);
+  grid-template-columns:1fr 1fr;
   grid-template-areas:
   "ur1 ur2";
   gap: 10px;
@@ -80,6 +80,7 @@ footer {
 }
 main {
   width: 80%;
+  max-width: 1200px;
   margin: 0 auto;
   background-color: lightsalmon;
   gap:10px;
