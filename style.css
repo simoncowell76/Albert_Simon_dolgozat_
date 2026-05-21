@@ -17,11 +17,38 @@ img{
   border-radius: 5px;
 
 }
+nav a{
+  text-decoration: none;
+  font-weight: bold;
+  color: aquamarine;
+}
+nav ul{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 100px);
+}
 nav li{
   list-style: none;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 4px solid black;
+}
+nav li:hover{
+  color: red;
+}
+.urhajos1{
+  grid-area:ur1;
+}
+.urhajos2{
+  grid-area:ur2;
 }
 section{
   display: grid;
+  grid-template-columns: repeat(auto-fit, 1fr 1fr);
+  grid-template-areas:
+  "ur1 ur2";
   gap: 10px;
 }
 h2{
@@ -56,10 +83,23 @@ main {
   background-color: lightsalmon;
   gap:10px;
   display: grid;
-  grid-template-columns:2,3fr, 1fr;
+  grid-template-columns:3fr 1fr;
   grid-template-areas:
   "h h"
   "n n"
   "ar as"
   "f f";
+}
+@media screen and (max-width:600px) {
+  main{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+    "h"
+    "n"
+    "ar"
+    "as"
+    "f";
+  }
+  
 }
