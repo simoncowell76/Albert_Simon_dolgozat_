@@ -36,9 +36,6 @@ nav li{
   padding-right: 10px;
   border: 4px solid black;
 }
-nav ul li:hover{
-  color: red;
-}
 .urhajos1{
   grid-area:ur1;
 }
@@ -104,4 +101,7 @@ main {
     "f";
   }
   
+}
+nav ul li:hover{
+  color: red;
 }
